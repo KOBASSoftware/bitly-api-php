@@ -1,5 +1,5 @@
 {
-    "name": "kobas/bitly",
+    "name": "kobas/bitly-api-php",
     "description": "PHP library to get a short url via a generic access token from bit.ly",
     "keywords": ["bit.ly", "bitly", "php", "api"],
     "type": "library",
