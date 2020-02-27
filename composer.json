@@ -1,0 +1,29 @@
+{
+    "name": "kobas/bitly",
+    "description": "PHP library to get a short url via a generic access token from bit.ly",
+    "keywords": ["bit.ly", "bitly", "php", "api"],
+    "type": "library",
+    "authors": [
+        {
+            "name": "Sean McNamara",
+            "email": "me@seanmcn.com",
+            "role": "Developer",
+            "homepage": "https://github.com/seanmcn"
+        }
+    ],
+    "license": "MIT",
+    "support": {
+        "email": "me@seanmcn.com"
+    },
+    "require": {
+        "guzzlehttp/guzzle": "6.5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kobas\\Bitly\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~5.7.27"
+    }
+}
