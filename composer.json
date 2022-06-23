@@ -16,7 +16,7 @@
         "email": "me@seanmcn.com"
     },
     "require": {
-        "guzzlehttp/guzzle": "7.4.5",
+        "guzzlehttp/guzzle": "6.5.8",
         "ext-json": "*"
     },
     "autoload": {
